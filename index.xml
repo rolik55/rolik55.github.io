@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratorinis darbas 4</title>
+    
+    
+    
+    <link>https://rolik55.github.io/</link>
+    <description>Recent content on Laboratorinis darbas 4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Nov 2022 17:38:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://rolik55.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puslapis su paveiksleliu ir kodu</title>
+      <link>https://rolik55.github.io/posts/puslapis_su_pav/</link>
+      <pubDate>Tue, 22 Nov 2022 17:38:46 +0200</pubDate>
+      
+      <guid>https://rolik55.github.io/posts/puslapis_su_pav/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          javaKodo citataSystem.out.println(&amp;#34;Hello World!&amp;#34;); 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
